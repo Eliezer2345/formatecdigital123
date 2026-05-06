@@ -44,16 +44,16 @@ import { CommonModule } from '@angular/common';
             
             <div class="flex items-center gap-8 pt-8 border-t border-white/10">
               <div>
-                <p class="text-3xl font-bold text-white">15K+</p>
-                <p class="text-sm text-slate-500 font-medium uppercase tracking-wider">Estudiantes</p>
+                <p class="text-3xl font-bold text-white"></p>
+                <p class="text-sm text-slate-500 font-medium uppercase tracking-wider"></p>
               </div>
               <div>
-                <p class="text-3xl font-bold text-white">100+</p>
-                <p class="text-sm text-slate-500 font-medium uppercase tracking-wider">Cursos</p>
+                <p class="text-3xl font-bold text-white"></p>
+                <p class="text-sm text-slate-500 font-medium uppercase tracking-wider"></p>
               </div>
               <div>
-                <p class="text-3xl font-bold text-white">98%</p>
-                <p class="text-sm text-slate-500 font-medium uppercase tracking-wider">Satisfacción</p>
+                <p class="text-3xl font-bold text-white"></p>
+                <p class="text-sm text-slate-500 font-medium uppercase tracking-wider"></p>
               </div>
             </div>
           </div>
